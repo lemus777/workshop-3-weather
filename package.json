@@ -1,0 +1,26 @@
+{
+  "name": "workshop-3-weather",
+  "version": "1.0.0",
+  "description": "app para ver el clima",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemus777/workshop-3-weather.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "app",
+    "weather",
+    "javascript"
+  ],
+  "author": "Jorge Lemus <lemus777@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lemus777/workshop-3-weather/issues"
+  },
+  "homepage": "https://github.com/lemus777/workshop-3-weather#readme"
+}
